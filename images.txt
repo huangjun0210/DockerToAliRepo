@@ -17,6 +17,6 @@
 #docker.n8n.io/n8nio/n8n:latest
 #nacos/nacos-server:v3.0.1
 #bitnami/mariadb:11.4.5-debian-12-r12
-jenkins/inbound-agent:3206.vb_15dcf73f6a_9-3
-
-
+registry.gitlab.com/yakshaving.art/alertsnitch
+mysql:5.7
+prom/alertmanager
