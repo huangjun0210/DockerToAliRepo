@@ -20,4 +20,6 @@
 #grafana/grafana:11.2.2
 #--platform linux/arm64/v8 mongodb/mongodb-community-server:4.4.29-ubuntu2004
 #--platform linux/arm64 mongo:4.4.28
---platform linux/arm64/v8 deceds/mongodb-armv8.0:latest
+#--platform linux/arm64/v8 deceds/mongodb-armv8.0:latest
+
+ghcr.io/pkuhpc/openscow/scow:v1.6.4
