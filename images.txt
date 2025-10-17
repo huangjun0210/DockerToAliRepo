@@ -22,4 +22,5 @@
 #--platform linux/arm64 mongo:4.4.28
 #--platform linux/arm64/v8 deceds/mongodb-armv8.0:latest
 
-ghcr.io/pkuhpc/openscow/scow:v1.6.4
+#ghcr.io/pkuhpc/openscow/scow:v1.6.4
+redis:alpine
