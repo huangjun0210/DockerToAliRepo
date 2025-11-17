@@ -23,4 +23,6 @@
 #--platform linux/arm64/v8 deceds/mongodb-armv8.0:latest
 
 #ghcr.io/pkuhpc/openscow/scow:v1.6.4
-redis:7.4.6-alpine3.21
+# redis:7.4.6-alpine3.21
+--platform linux/amd64 heartexlabs/label-studio:develop
+--platform linux/arm64 heartexlabs/label-studio:develop
