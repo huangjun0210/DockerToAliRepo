@@ -78,7 +78,7 @@ jobs:
             fi
         
             echo "docker pull $line"
-            echo "${{ secrets.GHCR_PASSWORD }}" | docker login -u "${{ secrets.GRCH_NAME }}" --password-stdin ghcr.io
+            docker login -u $GHCR_USERNAME -p $GHCR_PASSWORD ghcr.io
             docker pull $line
             platform=$(echo "$line" | awk -F'--platform[ =]' '{if (NF>1) print $2}' | awk '{print $1}')
             echo "platform is $platform"
