@@ -27,8 +27,11 @@
 #--platform linux/amd64 heartexlabs/label-studio:develop
 #--platform linux/arm64 heartexlabs/label-studio:develop
 #--platform linux/amd64 heartexlabs/label-studio:20251110.190502-develop-e6ef655
---platform linux/amd64 heartexlabs/label-studio:20251125.005917-develop-4c52a9d
---platform linux/arm64 heartexlabs/label-studio:20251125.005917-develop-4c52a9d
+#--platform linux/amd64 heartexlabs/label-studio:20251125.005917-develop-4c52a9d
+#--platform linux/arm64 heartexlabs/label-studio:20251125.005917-develop-4c52a9d
+
+ghcr.io/pkuhpc/scow-swpu/web:master
+ghcr.io/pkuhpc/scow-swpu/server:master
 
 
 
