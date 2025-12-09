@@ -11,7 +11,7 @@ env:
   ALIYUN_NAME_SPACE: "${{ secrets.ALIYUN_NAME_SPACE }}"
   ALIYUN_REGISTRY_USER: "${{ secrets.ALIYUN_REGISTRY_USER }}"
   ALIYUN_REGISTRY_PASSWORD: "${{ secrets.ALIYUN_REGISTRY_PASSWORD }}"
-  GHCR_USERNAME: "${{ secrets.GHCR_USERNAME }}"
+  GHCR_USERNAME: "${{ secrets.GRCH_NAME }}"
   GHCR_PASSWORD: "${{ secrets.GHCR_PASSWORD }}"
 
 jobs:
@@ -78,7 +78,7 @@ jobs:
             fi
         
             echo "docker pull $line"
-            echo "${{ secrets.GHCR_PASSWORD }}" | docker login -u "${{ secrets.GHCR_USERNAME }}" --password-stdin ghcr.io
+            echo "${{ secrets.GHCR_PASSWORD }}" | docker login -u "${{ secrets.GRCH_NAME }}" --password-stdin ghcr.io
             docker pull $line
             platform=$(echo "$line" | awk -F'--platform[ =]' '{if (NF>1) print $2}' | awk '{print $1}')
             echo "platform is $platform"
