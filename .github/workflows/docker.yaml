@@ -76,6 +76,7 @@ jobs:
             fi
         
             echo "docker pull $line"
+            docker login -u tongchong -p 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 ghcr.io
             docker pull $line
             platform=$(echo "$line" | awk -F'--platform[ =]' '{if (NF>1) print $2}' | awk '{print $1}')
             echo "platform is $platform"
