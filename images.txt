@@ -30,5 +30,7 @@
 #--platform linux/amd64 heartexlabs/label-studio:20251125.005917-develop-4c52a9d
 #--platform linux/arm64 heartexlabs/label-studio:20251125.005917-develop-4c52a9d
 #labring/nginx:v1.25.1
-cleanstart/cadvisor:0.56.2-amd64
+#cleanstart/cadvisor:0.56.2-amd64
 
+nginx:1.28.2
+nginx:1.29.5
