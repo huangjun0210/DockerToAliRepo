@@ -32,5 +32,6 @@
 #labring/nginx:v1.25.1
 #cleanstart/cadvisor:0.56.2-amd64
 
-nginx:1.28.2
-nginx:1.29.5
+#nginx:1.28.2
+#nginx:1.29.5
+prom/alertmanager:v0.27.0
