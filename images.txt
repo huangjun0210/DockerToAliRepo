@@ -34,4 +34,5 @@
 
 #nginx:1.28.2
 #nginx:1.29.5
-prom/alertmanager:v0.27.0
+#prom/alertmanager:v0.27.0
+ghcr.io/google/cadvisor:v0.56.2
