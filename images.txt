@@ -35,4 +35,6 @@
 #nginx:1.28.2
 #nginx:1.29.5
 #prom/alertmanager:v0.27.0
-ghcr.io/google/cadvisor:0.56.2
+#ghcr.io/google/cadvisor:0.56.2
+heartexlabs/label-studio:1.23.0
+elestio/label-studio:latest
