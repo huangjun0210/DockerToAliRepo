@@ -36,5 +36,6 @@
 #nginx:1.29.5
 #prom/alertmanager:v0.27.0
 #ghcr.io/google/cadvisor:0.56.2
-heartexlabs/label-studio:1.23.0
-elestio/label-studio:latest
+#heartexlabs/label-studio:1.23.0
+#elestio/label-studio:latest
+rancher/rancher:v2.15-33cf4ae2c2abac150309014b07b395beae4bdf94-head
