@@ -40,6 +40,6 @@
 #elestio/label-studio:latest
 # rancher/rancher:v2.15-33cf4ae2c2abac150309014b07b395beae4bdf94-head
 # registry.cn-beijing.aliyuncs.com/kubesphereio/kubectl:v1.33.1
-gpustack/gpustack:v2.1-dev-8a65913
-gpustack/gpustack:v2.1.1
-gpustack/gpustack:v2.1.2rc1
+#gpustack/gpustack:v2.1-dev-8a65913
+gpustack/gpustack:v2.1.2
+#gpustack/gpustack:v2.1.2rc1
