@@ -43,4 +43,6 @@
 #gpustack/gpustack:v2.1-dev-8a65913
 #gpustack/gpustack:v2.1.2
 #gpustack/gpustack:v2.1.2rc1
-gpustack/runner:dtk25.04-vllm0.11.0
+#gpustack/runner:dtk25.04-vllm0.11.0
+ghcr.io/openclaw/openclaw:latest
+ghcr.io/openclaw/openclaw:2026.4.27-slim
