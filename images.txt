@@ -51,5 +51,8 @@
 #quay.io/kubevirt/virt-controller:v1.8.2
 #quay.io/kubevirt/virt-launcher:v1.8.2
 #quay.io/kubevirt/virt-handler:v1.8.2
-quay.io/kubevirt/cdi-operator:v1.65.0
+#quay.io/kubevirt/cdi-operator:v1.65.0
+
+quay.io/kubevirt/cdi-uploadproxy:v1.65.0
+quay.io/kubevirt/cdi-apiserver:v1.65.0
 
