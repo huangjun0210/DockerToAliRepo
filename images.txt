@@ -56,4 +56,14 @@
 #quay.io/kubevirt/cdi-uploadproxy:v1.65.0
 #quay.io/kubevirt/cdi-apiserver:v1.65.0
 #quay.io/kubevirt/cdi-controller:v1.65.0
-quay.io/kubevirt/cirros-container-disk-demo
+#quay.io/kubevirt/cirros-container-disk-demo
+
+goharbor/redis-photon:v2.7.4
+goharbor/harbor-registryctl:v2.7.4
+goharbor/registry-photon:v2.7.4
+goharbor/nginx-photon:v2.7.4
+goharbor/harbor-log:v2.7.4
+goharbor/harbor-jobservice:v2.7.4
+goharbor/harbor-core:v2.7.4
+goharbor/harbor-portal:v2.7.4
+goharbor/harbor-db:v2.7.4
