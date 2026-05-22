@@ -57,7 +57,10 @@
 #quay.io/kubevirt/cdi-apiserver:v1.65.0
 #quay.io/kubevirt/cdi-controller:v1.65.0
 #quay.io/kubevirt/cirros-container-disk-demo
---platform linux/arm64/v8  nginx:stable-alpine
+#--platform linux/arm64/v8  nginx:stable-alpine
 
+apache/apisix:3.16.0-ubuntu
+busybox:1.28
+bitnamilegacy/etcd:latest
 
 
