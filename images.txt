@@ -65,6 +65,6 @@
 
 #node:20-alpine
 #python:3.12-slim
-mysql:8
-
+#mysql:8
+debian:bookworm-slim
 
