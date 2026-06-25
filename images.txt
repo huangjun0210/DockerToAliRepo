@@ -63,7 +63,8 @@
 #busybox:1.28
 #bitnamilegacy/etcd:latest
 
-node:20-alpine
-python:3.12-slim
+#node:20-alpine
+#python:3.12-slim
+mysql:8
 
 
