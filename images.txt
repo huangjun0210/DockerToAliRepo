@@ -59,8 +59,11 @@
 #quay.io/kubevirt/cirros-container-disk-demo
 #--platform linux/arm64/v8  nginx:stable-alpine
 
-apache/apisix:3.16.0-ubuntu
-busybox:1.28
-bitnamilegacy/etcd:latest
+#apache/apisix:3.16.0-ubuntu
+#busybox:1.28
+#bitnamilegacy/etcd:latest
+
+node:20-alpine
+python:3.12-slim
 
 
