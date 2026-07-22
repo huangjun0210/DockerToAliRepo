@@ -66,5 +66,14 @@
 #node:20-alpine
 #python:3.12-slim
 #mysql:8
-debian:bookworm-slim
+#debian:bookworm-slim
+
+--platform linux/amd64  prom/alertmanager:v0.27.0
+--platform linux/arm/v7  prom/alertmanager:v0.27.0
+--platform linux/arm64/v8  prom/alertmanager:v0.27.0
+--platform linux/ppc64le  prom/alertmanager:v0.27.0
+--platform linux/s390x  prom/alertmanager:v0.27.0
+
+
+
 
