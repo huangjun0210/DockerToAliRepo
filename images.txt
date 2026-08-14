@@ -74,6 +74,5 @@
 #--platform linux/ppc64le  prom/alertmanager:v0.27.0
 #--platform linux/s390x  prom/alertmanager:v0.27.0
 #docker.io/projecthami/volcano-vgpu-device-plugin:v1.12.0
-aquasec/trivy-test-image:latest
- ghcr.io/aquasecurity/trivy-test-image:latest
+ghcr.io/aquasecurity/trivy-test-image:latest
 
