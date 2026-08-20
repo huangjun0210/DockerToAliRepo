@@ -75,5 +75,6 @@
 #--platform linux/s390x  prom/alertmanager:v0.27.0
 #docker.io/projecthami/volcano-vgpu-device-plugin:v1.12.0
 # ghcr.io/aquasecurity/trivy-test-image:latest
-golang:1.22-alpine
+# golang:1.22-alpine
+alpine:3.20
 
