@@ -112,4 +112,10 @@
 #quay.io/kubevirt/libguestfs-tools:v1.8.4
 #quay.io/kubevirt/virt-template-apiserver:v1.8.4
 #quay.io/kubevirt/virt-template-controller:v1.8.4
-quay.io/kubevirt/ubuntu-container-disk-demo:v1.8.4
+#quay.io/kubevirt/ubuntu-container-disk-demo:v1.8.4
+quay.io/containerdisks/centos-stream:9
+quay.io/containerdisks/centos-stream:10
+quay.io/containerdisks/fedora:latest
+quay.io/containerdisks/ubuntu:22.04
+quay.io/containerdisks/ubuntu:24.04
+quay.io/containerdisks/debian:12
