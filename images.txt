@@ -76,5 +76,8 @@
 #docker.io/projecthami/volcano-vgpu-device-plugin:v1.12.0
 # ghcr.io/aquasecurity/trivy-test-image:latest
 # golang:1.22-alpine
-alpine:3.20
-
+# alpine:3.20
+labring/kubernetes:v1.32.10
+labring/helm:v3.20.0
+labring/cilium:v1.18.5
+labring/nerdctl:v1.7.7 
