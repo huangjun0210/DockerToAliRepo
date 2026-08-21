@@ -98,4 +98,18 @@
 #docker.io/longhornio/livenessprobe:v2.19.0
 #quay.io/openshift/origin-oauth-proxy:4.18
 
+# quay.io/kubevirt/virt-operator:v1.8.4
+
 quay.io/kubevirt/virt-operator:v1.8.4
+quay.io/kubevirt/virt-api:v1.8.4
+quay.io/kubevirt/virt-controller:v1.8.4
+quay.io/kubevirt/virt-handler:v1.8.4
+quay.io/kubevirt/virt-launcher:v1.8.4
+quay.io/kubevirt/virt-exportproxy:v1.8.4
+quay.io/kubevirt/virt-exportserver:v1.8.4
+quay.io/kubevirt/virt-synchronization-controller:v1.8.4
+quay.io/kubevirt/sidecar-shim:v1.8.4
+quay.io/kubevirt/pr-helper:v1.8.4
+quay.io/kubevirt/libguestfs-tools:v1.8.4
+quay.io/kubevirt/virt-template-apiserver:v1.8.4
+quay.io/kubevirt/virt-template-controller:v1.8.4
