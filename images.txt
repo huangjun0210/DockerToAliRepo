@@ -127,4 +127,7 @@
 #quay.io/kubevirt/cdi-uploadserver:v1.66.0
 #quay.io/kubevirt/cdi-uploadproxy:v1.66.0
 #docker/compose:1.29.2 
-docker:29.7.2
+#docker:29.7.2
+golang:1.22-alpine
+node:20-alpine 
+nginx:1.27-alpine
