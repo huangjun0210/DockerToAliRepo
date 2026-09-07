@@ -1,3 +1,4 @@
+ghcr.io/pkuhpc/scow-scut/web:master
 #redis:7.4.1
 #nginx:1.27.2
 #mysql:8.4.3
@@ -128,6 +129,6 @@
 #quay.io/kubevirt/cdi-uploadproxy:v1.66.0
 #docker/compose:1.29.2 
 #docker:29.7.2
-golang:1.22-alpine
-node:20-alpine 
-nginx:1.27-alpine
+#golang:1.22-alpine
+#node:20-alpine 
+#nginx:1.27-alpine
