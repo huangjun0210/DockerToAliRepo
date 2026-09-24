@@ -133,4 +133,6 @@
 #node:20-alpine 
 #nginx:1.27-alpine
 
-fluentd:v1.19.3-1.0
+#fluentd:v1.19.3-1.0
+ghcr.io/aquasecurity/trivy-db:2
+ghcr.io/aquasecurity/trivy-java-db:1
