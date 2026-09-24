@@ -1,4 +1,4 @@
-ghcr.io/pkuhpc/scow-scut/web:master
+#ghcr.io/pkuhpc/scow-scut/web:master
 #redis:7.4.1
 #nginx:1.27.2
 #mysql:8.4.3
