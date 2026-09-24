@@ -132,3 +132,5 @@ ghcr.io/pkuhpc/scow-scut/web:master
 #golang:1.22-alpine
 #node:20-alpine 
 #nginx:1.27-alpine
+
+fluentd:v1.19.3-1.0
