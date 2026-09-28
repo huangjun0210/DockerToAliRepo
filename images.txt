@@ -1,3 +1,4 @@
+goharbor/trivy-adapter-photon:v2.7.4
 #ghcr.io/pkuhpc/scow-scut/web:master
 #redis:7.4.1
 #nginx:1.27.2
@@ -136,5 +137,5 @@
 #fluentd:v1.19.3-1.0
 #aquasec/trivy-db:2
 #aquasec/trivy-java-db:1
-nginx:stable-alpine
+#nginx:stable-alpine
 
