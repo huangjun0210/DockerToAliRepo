@@ -1,4 +1,5 @@
-goharbor/trivy-adapter-photon:v2.7.4
+labring/kubernetes:v1.32.10
+#goharbor/trivy-adapter-photon:v2.7.4
 #ghcr.io/pkuhpc/scow-scut/web:master
 #redis:7.4.1
 #nginx:1.27.2
