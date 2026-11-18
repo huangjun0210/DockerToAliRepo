@@ -1,4 +1,5 @@
-centos:centos8
+rockylinux/rockylinux:9
+#centos:centos8
 #centos:centos7.9.2009
 #labring/kubernetes:v1.32.10
 #goharbor/trivy-adapter-photon:v2.7.4
